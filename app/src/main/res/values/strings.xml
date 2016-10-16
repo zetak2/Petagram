@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="bienvenida">Bienvenido a la aplicación mas popular para votar por mascotas</string>
+    <string name="btnIniciar">Visualizar Mascotas</string>
+    <string name="nombre">Nombre Mascota</string>
+    <string name="favs">0</string>
+    <string name="visualizarMascotas">Todas las Mascotas</string>
+    <string name="mascotasFavoritas">MascotasFavoritas</string>
 </resources>
